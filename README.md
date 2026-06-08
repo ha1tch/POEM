@@ -1,4 +1,4 @@
-# POEM — Persistent cOgnitive Environment Model
+# POEM — Persistent Operative-cognitive Environment Model
 
 **Version 0.0.6** · 2026-06-07
 
