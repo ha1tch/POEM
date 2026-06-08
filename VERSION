@@ -1,0 +1,9 @@
+POEM: Persistent cOgnitive Environment Model
+Version: 0.0.6
+Date: 2026-06-07
+
+Changes from 0.0.5:
+- poem-03-ukm.md: Compressed §3.2.3 (Hypertext and Associative Trails) to a cross-reference; content introduced in Chapter 1.
+- poem-04-multires-memory.md: Enriched §4.2.2 (Cognitive Psychology and Reconstruction) with architectural consequences of reconstructive memory; trimmed §4.2.3 (Hierarchical Storage Systems) to single example with unified principle.
+- poem-05-focal-cognition.md: Replaced §5.2.3 (Executive Function) name-dropping list with a substantive treatment of Global Workspace Theory and its architectural implications for Focal Cognition.
+- poem-06-peripheral-cognition.md: Replaced §6.2.3 (Blackboard Tradition) with a cross-reference to Chapters 1 and 9; enriched §6.2.4 (Scientific Discovery) with explicit treatment of the attentional mechanism underlying peripheral discovery; added §6.9.2 reconnaissance paragraph clarifying that peripheral scouts do not advance the main line of reasoning but range into adjacent territory to expand what the focal process can notice.
