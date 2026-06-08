@@ -7,16 +7,19 @@ POEM is a conceptual framework describing what a persistent cognitive runtime is
 **[Poesy](https://github.com/ha1tch/poesy)** is the first concrete attempt to build a POEM-class system — the implementation against which these principles are tested, refined, and grounded. Where POEM asks what such a system must be, Poesy asks what it takes to build one. Any gap between what the architecture describes and what Poesy does today is not a failure. It is the frontier.
 
 ---
+## What a Cognitive Runtime Must Be
+The document [What a Cognitive Runtime Must Be](COGNITIVE-RUNTIME-PRIMER.md) contains an account of the ideas developed at length in the POEM vision — the Persistent Operative-cognitive Environment Model — and in the architectural discussion of Poesy, its first implementation.
 
-## How to read this document
+---
+## How to read the POEM document
 
-The chapters progress from motivation through foundational mechanisms to integrating architecture and speculative horizon. Readers new to the project should start with the [Prologue](poem-00-prologue.md) and [Vision](poem-01-vision.md). Those interested in a specific subsystem can jump directly to the relevant chapter; each is written to be legible in isolation, though forward references appear throughout.
+The POEM chapters progress from motivation through foundational mechanisms to integrating architecture and speculative horizon. Readers new to the project should start with the [Prologue](poem-00-prologue.md) and [Vision](poem-01-vision.md). Those interested in a specific subsystem can jump directly to the relevant chapter; each is written to be legible in isolation, though forward references appear throughout.
 
 The three appendices serve different purposes: Appendix A is a working reference lexicon, while Appendices B and C are explicitly speculative and address long-horizon directions that depend on parallel research programmes outside POEM proper.
 
 ---
 
-## Chapters
+## POEM Chapters
 
 ### [0. Prologue](poem-00-prologue.md)
 
